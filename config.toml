@@ -57,9 +57,9 @@ publishDir = "docs"
   name = "Get in touch"
   url = "contact/"
 
-  [[params.navlinks]]
-  name = "posts"
-  url = "posts/"
+[[params.navlinks]]
+name="posts"
+url ="posts/"
 
   [params.social]
   facebook      = "full page or profile url in facebook"
