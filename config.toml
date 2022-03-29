@@ -58,7 +58,7 @@ publishDir = "docs"
   url = "contact/"
 
   [[params.navlinks]]
-  name = "post"
+  name = "posts"
   url = "posts/"
 
   [params.social]
