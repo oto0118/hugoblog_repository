@@ -57,7 +57,7 @@ publishDir = "docs"
   name = "Get in touch"
   url = "contact/"
 
- [[params.navlinks]]
+  [[params.navlinks]]
   name = "post"
   url = "posts/"
 
